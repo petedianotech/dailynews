@@ -1,0 +1,32 @@
+[
+  {
+    "id": "seed-ai-1",
+    "slug": "ai-agents-are-becoming-production-software",
+    "title": "AI agents are becoming production software",
+    "summary": "Teams are moving AI agents from demos into reliable products with evaluation, observability, guardrails, and human review workflows.",
+    "url": "https://example.com/ai-agents-production",
+    "source": "DailyNews",
+    "category": "ai",
+    "publishedAt": "2026-10-28T08:00:00.000Z"
+  },
+  {
+    "id": "seed-software-1",
+    "slug": "typescript-remains-the-default-for-product-teams",
+    "title": "TypeScript remains the default for product teams",
+    "summary": "Strong typing, editor tooling, and a mature ecosystem continue to make TypeScript a practical choice for scalable web applications.",
+    "url": "https://example.com/typescript-default",
+    "source": "DailyNews",
+    "category": "software",
+    "publishedAt": "2026-10-28T07:30:00.000Z"
+  },
+  {
+    "id": "seed-tech-1",
+    "slug": "cloud-costs-shape-modern-architecture",
+    "title": "Cloud costs are shaping modern architecture",
+    "summary": "Engineering teams increasingly optimize for cost, performance, and operational simplicity when selecting cloud and edge infrastructure.",
+    "url": "https://example.com/cloud-costs",
+    "source": "DailyNews",
+    "category": "tech",
+    "publishedAt": "2026-10-28T07:00:00.000Z"
+  }
+]

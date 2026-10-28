@@ -1,0 +1,10 @@
+services:
+  web:
+    build: .
+    ports:
+      - "3000:3000"
+    environment:
+      - NODE_ENV=production
+      - NEXT_PUBLIC_SITE_URL=http://localhost:3000
+      - NEWS_RSS_SOURCES=https://techcrunch.com/feed/,https://www.theverge.com/rss/index.xml
+    restart: unless-stopped
